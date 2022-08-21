@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shri333
-- 👀 I’m interested in machine learning, web development
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning whatever interests me
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me dshrihan@gmail.com
